@@ -1,7 +1,6 @@
 # Research Task 08 – Bias Detection in LLM Data Narratives
 
-This repository contains the final implementation for **Research Task 08: Bias Detection in LLM Data Narratives**
-(Nov 15 submission), building on the experimental design and data-collection progress reported on Nov 1.
+This repository contains the final implementation for **Research Task 08: Bias Detection in LLM Data Narratives** building on the experimental design and data-collection progress.
 
 ## Objective
 
