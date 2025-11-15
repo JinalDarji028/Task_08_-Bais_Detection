@@ -1,0 +1,5 @@
+# Minimal requirements for Task 08 scripts
+# Add LLM client libraries here if you wire to real APIs, e.g.:
+# openai
+# anthropic
+# google-generativeai
